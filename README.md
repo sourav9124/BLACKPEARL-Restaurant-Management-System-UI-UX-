@@ -1,4 +1,4 @@
-# BLACKPEARL-BACKEND
+# BLACKPEARL-Restaurant Management System
 Black Pearl is a project based on the restaurant management system.
 
 It enables any restaurant owner to create a website and manage their restaurant 
