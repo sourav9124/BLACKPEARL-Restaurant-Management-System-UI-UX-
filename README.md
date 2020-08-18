@@ -47,9 +47,7 @@ Web push (one signal) api is being used for realtime notifications.
 
 Thankyou
 
-For front-end please click the link given below.
 
-https://github.com/rakeshkumarsingh1019/restaurant
 
 
 
